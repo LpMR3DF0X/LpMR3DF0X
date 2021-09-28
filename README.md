@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho com Suporte Técnico.
-- 🌱 Estudando Data Science.
-- 👯 Procuro colabora com Front-end.
+- 🌱 Estudando JS.
+- 👯 Procuro colaborar com desenvolvimento Front-end.
 - 📫 How to reach me: luizphelipe123@hotmail.com.
 - 😄 Pronouns: ele/dele.
 
