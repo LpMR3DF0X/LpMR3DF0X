@@ -1,9 +1,9 @@
 ## Oiii! Eu sou o Luiz!
 
 
-- 🔭 Hoje trabalho com Suporte Técnico.
-- 🌱 Estudando JS.
-- 👯 Procuro colaborar com desenvolvimento Front-end.
+- 🔭 Hoje trabalho como Analista de Dados.
+- 🌱 Estudando Python e SQL.
+- 👯 Procuro colaborar com desenvolvimento da Área de Analise de Dados.
 - 📫 How to reach me: luizphelipe123@hotmail.com.
 - 😄 Pronouns: ele/dele.
 
